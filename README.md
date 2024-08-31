@@ -4,10 +4,14 @@
     <h3>A Security Researcher from India 🇮🇳 with a passion for hacking CTFs and exposing scammers. Experienced in bug bounty hunting and securing critical systems, including Indian government organizations and private healthcare sectors.</h3>
 </div>
 
+<div align="center" style="font-size: 34px; font-weight: bold; color: #333; margin: 20px 0;">
+    <p><em>“God sends his most elite soldiers into the toughest battles”</em></p>
+    <p>— The Creator</p>
+</div>
+
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 <p align="center">
-    <span></span>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumanrox&show_icons=true&locale=en&theme=dark&layout=compact" alt="sumanrox" height="180" />
     <img src="https://github-readme-stats.vercel.app/api?username=sumanrox&show_icons=true&locale=en&theme=dark" alt="sumanrox" height="180" />
 </p>
@@ -21,11 +25,6 @@
 - 💬 Feel free to ask me about **Hacking and Motivation**
 - 📫 Feel free to dm me: [Instagram](https://instagram.com/sumanrox.official/)
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/sumanrox/)
-
-<div align="center" style="font-size: 24px; font-weight: bold; color: #333; margin: 20px 0;">
-    <p><em>“God sends his most elite soldiers into the toughest battles”</em></p>
-    <p>— The Creator</p>
-</div>
 
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
