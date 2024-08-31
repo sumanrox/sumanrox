@@ -24,16 +24,6 @@
 > **_“God sends his most elite soldiers into the toughest battles”_**
 > — The Creator
 
-<p align="left">
-    <h4>Follow Me </h4>
-    <a href="https://sumanroy.gitbook.io/" target="_blank"><img src="https://img.shields.io/badge/Gitbook-000000?style=for-the-badge&logo=gitbook&logoColor=white" alt="Gitbook" /></a>
-    <a href="https://tryhackme.com/p/sumanrox" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-2D2D2D?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
-    <a href="https://www.linkedin.com/in/sumanrox/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://instagram.com/sumanrox.official/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="https://sumanrox.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-    <a href="https://github.com/sumanrox"><img src="https://komarev.com/ghpvc/?username=sumanrox&style=for-the-badge&color=brightgreen&label=Profile+Views" alt="Profile Views"></a>
-</p>
-
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 #### Tools & Technologies
@@ -57,9 +47,21 @@
     <img src="https://img.shields.io/badge/SAST-0075A2?style=for-the-badge&logo=security&logoColor=white" alt="SAST" />
 </p>
 
+<p align="left">
+    <h4>Follow Me </h4>
+    <a href="https://sumanroy.gitbook.io/" target="_blank"><img src="https://img.shields.io/badge/Gitbook-000000?style=for-the-badge&logo=gitbook&logoColor=white" alt="Gitbook" /></a>
+    <a href="https://tryhackme.com/p/sumanrox" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-2D2D2D?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+    <a href="https://www.linkedin.com/in/sumanrox/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://instagram.com/sumanrox.official/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://sumanrox.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+    <a href="https://github.com/sumanrox"><img src="https://komarev.com/ghpvc/?username=sumanrox&style=for-the-badge&color=brightgreen&label=Profile+Views" alt="Profile Views"></a>
+</p>
+
 <h4 align="left">If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈</h4>
 <p align="left">
     <a href="https://www.buymeacoffee.com/sumanroy">
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="150" alt="sumanroy" />
     </a>
 </p>
+
+![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
