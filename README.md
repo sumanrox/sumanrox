@@ -34,7 +34,7 @@
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/sumanrox/)
 - ⚡ Best Motivation: **God sends his most elite soldiers into the toughest battles**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sumanrox&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sumanrox&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Tools & Technologies
 
