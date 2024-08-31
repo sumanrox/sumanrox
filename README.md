@@ -7,7 +7,7 @@
 </p>
 
 <p>
-    <img src="https://octodex.github.com/images/NUX_Octodex.gif" style="float: left; margin-right: 20px;"/>
+    <img src="./images/NUX_Octodex.gif" style="float: left; margin-right: 20px;"/>
     <span style="display: inline-block; max-width: calc(100% - 120px);">
         <h4>A Security Researcher from India with a passion for hacking CTFs and exposing scammers.
         Experienced in bug bounty hunting and securing critical systems, including Indian government organizations and private healthcare sectors.</h4>
