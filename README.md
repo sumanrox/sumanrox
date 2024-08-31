@@ -26,7 +26,7 @@
 
 ### Tools & Technologies
 
-<p align="left">
+<p align="center">
     <img src="https://img.shields.io/badge/OS-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
     <img src="https://img.shields.io/badge/Tool-Burp%20Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" />
     <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
@@ -40,7 +40,11 @@
     <img src="https://img.shields.io/badge/Code-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
     <img src="https://img.shields.io/badge/Code-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
     <img src="https://img.shields.io/badge/Forensics-Mobile%20Forensics-0078D4?style=for-the-badge&logo=mobile&logoColor=white" alt="Mobile Forensics" />
+    <img src="https://img.shields.io/badge/VAPT-004B49?style=for-the-badge&logo=security&logoColor=white" alt="VAPT" />
+    <img src="https://img.shields.io/badge/Pentesting-FF3D00?style=for-the-badge&logo=security&logoColor=white" alt="Pentesting" />
+    <img src="https://img.shields.io/badge/SAST-0075A2?style=for-the-badge&logo=security&logoColor=white" alt="SAST" />
 </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
