@@ -39,6 +39,8 @@
 - 📫 How to DM me: [Instagram](https://instagram.com/sumanrox.official/)
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/sumanrox/)
 
+![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
 #### Tools & Technologies
 
 ![tech](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
