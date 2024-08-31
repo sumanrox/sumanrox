@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Suman Roy</h1>
-<h3 align="center">
+<h3 align="left">
     A Security Researcher from India with a passion for hacking CTFs and exposing scammers.
     Experienced in bug bounty hunting and securing critical systems, including Indian government organizations and private healthcare sectors.
 </h3>
 
-### Follow Me
+#### Follow Me
 
 <p align="left">
     <a href="https://sumanroy.gitbook.io/" target="_blank"><img src="https://img.shields.io/badge/Gitbook-000000?style=for-the-badge&logo=gitbook&logoColor=white" alt="Gitbook" /></a>
@@ -12,9 +12,6 @@
     <a href="https://www.linkedin.com/in/sumanrox/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://instagram.com/sumanrox.official/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
     <a href="https://sumanrox.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-</p>
-
-<p align="left">
     <img src="https://komarev.com/ghpvc/?username=sumanrox&label=Profile%20views&color=0e75b6&style=flat" alt="sumanrox" />
 </p>
 
@@ -34,9 +31,11 @@
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/sumanrox/)
 - ⚡ Best Motivation: **God sends his most elite soldiers into the toughest battles**
 
+#### Trophies
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=sumanrox&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Tools & Technologies
+#### Tools & Technologies
 
 <p align="left">
     <img src="https://img.shields.io/badge/OS-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
