@@ -5,10 +5,12 @@
     <img src="https://komarev.com/ghpvc/?username=sumanrox&label=Profile%20views&color=0e75b6&style=flat" alt="sumanrox"/>
 </p>
 
-
 <h3>A Security Researcher from India with a passion for hacking CTFs and exposing scammers. Experienced in bug bounty hunting and securing critical systems, including Indian government organizations and private healthcare sectors.</h3>
 
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+> **_“God sends his most elite soldiers into the toughest battles”_**
+> — The Creator
 
 <p align="left">
     <h4> Follow Me </h4>
@@ -34,7 +36,6 @@
 - 💬 Feel free to ask me about **Hacking and Motivation**
 - 📫 How to DM me: [Instagram](https://instagram.com/sumanrox.official/)
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/sumanrox/)
-- ⚡ Best Motivation: **God sends his most elite soldiers into the toughest battles**
 
 #### Trophies
 
