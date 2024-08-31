@@ -6,7 +6,10 @@
 
 #### Follow Me
 
-<img src="https://komarev.com/ghpvc/?username=sumanrox&label=Profile%20views&color=0e75b6&style=flat" alt="sumanrox" align="left" />
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=sumanrox&label=Profile%20views&color=0e75b6&style=flat" alt="sumanrox" align="left" />
+</p>
+
 <p align="left">
     <a href="https://sumanroy.gitbook.io/" target="_blank"><img src="https://img.shields.io/badge/Gitbook-000000?style=for-the-badge&logo=gitbook&logoColor=white" alt="Gitbook" /></a>
     <a href="https://tryhackme.com/p/sumanrox" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-2D2D2D?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
