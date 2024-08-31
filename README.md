@@ -21,8 +21,10 @@
 - 📫 Feel free to dm me: [Instagram](https://instagram.com/sumanrox.official/)
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/sumanrox/)
 
-> **_“God sends his most elite soldiers into the toughest battles”_**
-> — The Creator
+<div align="center" style="font-size: 24px; font-weight: bold; color: #333; margin: 20px 0;">
+    <p><em>“God sends his most elite soldiers into the toughest battles”</em></p>
+    <p>— The Creator</p>
+</div>
 
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
