@@ -26,12 +26,12 @@
 - ⚡ Best Motivation: **God sends his most elite soldiers into the toughest battles**
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sumanrox&show_icons=true&locale=en" alt="sumanrox" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumanrox&show_icons=true&locale=en&layout=compact" alt="sumanrox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sumanrox&show_icons=true&locale=en" alt="sumanrox" height="100" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumanrox&show_icons=true&locale=en&layout=compact" alt="sumanrox" height="100" />
 </p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
     <a href="https://linkedin.com/in/sumanrox" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumanrox" height="30" width="40" />
     </a>
@@ -40,8 +40,8 @@
     </a>
 </p>
 
-<h3 align="center">Support:</h3>
-<p align="center">
+<h3 align="left">Support:</h3>
+<p align="left">
     <a href="https://www.buymeacoffee.com/sumanroy">
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sumanroy" />
     </a>
