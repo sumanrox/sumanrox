@@ -42,8 +42,6 @@
 
 #### Tools & Technologies
 
-![tech](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
-
 <p align="left">
     <img src="https://img.shields.io/badge/OS-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
     <img src="https://img.shields.io/badge/Tool-Burp%20Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" />
