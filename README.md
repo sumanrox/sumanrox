@@ -27,16 +27,16 @@
     <img src="https://github-readme-stats.vercel.app/api?username=sumanrox&show_icons=true&locale=en" alt="sumanrox" height="180" />
 </p>
 
-- 🔭 I’m currently working for [LoginSoft](https://www.loginsoft.com/)
-- 🅾 Feel free to Email me: **sumanrox@outlook.com**
-- 👯 I have previously worked for [Wipro](https://www.wipro.com/)
-- 🌱 I’m currently training myself for [CEH Master](https://www.eccouncil.org/train-certify/ceh-master/)
-- 👨‍💻 All of my projects are available at [https://github.com/sumanrox](https://github.com/sumanrox)
-- 📝 I sometimes write articles on CTFs at [https://sumanroy.gitbook.io/](https://sumanroy.gitbook.io/)
-- 💬 Feel free to ask me about **Hacking and Motivation**
-- 📫 How to DM me: [Instagram](https://instagram.com/sumanrox.official/)
-- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/sumanrox/)
-- ⚡ Best Motivation: **God sends his most elite soldiers into the toughest battles**
+## 🔭 I’m currently working for [LoginSoft](https://www.loginsoft.com/)
+## 🅾 Feel free to Email me: **sumanrox@outlook.com**
+## 👯 I have previously worked for [Wipro](https://www.wipro.com/)
+## 🌱 I’m currently training myself for [CEH Master](https://www.eccouncil.org/train-certify/ceh-master/)
+## 👨‍💻 All of my projects are available at [https://github.com/sumanrox](https://github.com/sumanrox)
+## 📝 I sometimes write articles on CTFs at [https://sumanroy.gitbook.io/](https://sumanroy.gitbook.io/)
+## 💬 Feel free to ask me about **Hacking and Motivation**
+## 📫 How to DM me: [Instagram](https://instagram.com/sumanrox.official/)
+## 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/sumanrox/)
+## ⚡ Best Motivation: **God sends his most elite soldiers into the toughest battles**
 
 #### Trophies
 
