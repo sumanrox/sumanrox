@@ -6,7 +6,7 @@
 
 ### Follow Me
 
-<p align="center">
+<p align="left">
     <a href="https://sumanroy.gitbook.io/" target="_blank">
         <img src="https://img.shields.io/badge/Gitbook-000000?style=for-the-badge&logo=gitbook&logoColor=white" alt="Gitbook" />
     </a>
