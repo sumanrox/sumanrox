@@ -27,10 +27,10 @@
 <h4 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/sumanrox" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumanrox" height="20" width="20" style="margin-right: 10px;" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumanrox" height="20" width="20" />
     </a>
     <a href="https://instagram.com/sumanrox.official" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumanrox" height="20" width="20" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumanrox" height="20" width="20" style="margin-right: 10px;" />
     </a>
 </p>
 
