@@ -1,8 +1,5 @@
 
-<h2>Hi 
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" style="vertical-align: middle;"/>
-    ,I am Suman Roy
-</h2>
+<h2>Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" style="vertical-align: middle;"/>I am Suman Roy</h2>
 
 <p align="right">
     <img src="https://komarev.com/ghpvc/?username=sumanrox&label=Profile%20views&color=0e75b6&style=flat" alt="sumanrox"/>
