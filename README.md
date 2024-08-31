@@ -3,13 +3,16 @@
     A Security Researcher from India with a passion for hacking CTFs and exposing scammers.
     Experienced in bug bounty hunting and securing critical systems, including Indian government organizations and private healthcare sectors.
 </h3>
+
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=sumanrox&label=Profile%20views&color=0e75b6&style=flat" alt="sumanrox" />
 </p>
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sumanrox&show_icons=true&locale=en" alt="sumanrox" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumanrox&show_icons=true&locale=en&layout=compact" alt="sumanrox" height="200" />
 </p>
+
 - 🔭 I’m currently working for [LoginSoft](https://www.loginsoft.com/)
 - 🅾 Feel free to Email me: **sumanrox@outlook.com**
 - 👯 I have previously worked for [Wipro](https://www.wipro.com/)
