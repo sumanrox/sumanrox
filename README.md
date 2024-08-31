@@ -5,7 +5,7 @@
 </div>
 
 <div align="center" style="font-size: 34px; font-weight: bold; color: #333; margin: 20px 0;">
-    <p><em>“God sends his most elite soldiers into the toughest battles”</em></p>
+    <p style="font-style:bold;"><em>“God sends his most elite soldiers into the toughest battles”</em></p>
     <p>— The Creator</p>
 </div>
 
