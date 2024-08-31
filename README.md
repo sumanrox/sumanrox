@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Suman Roy</h1>
+<h1 align="center">Hi 👋, I'm Suman Roy<img src=<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Ghost.png" alt="Ghost" width="25" height="25"/></h1>
 
 <p align="right">
     <img src="https://komarev.com/ghpvc/?username=sumanrox&label=Profile%20views&color=0e75b6&style=flat" alt="sumanrox"/>
