@@ -26,7 +26,6 @@
 
 <h4 align="left">Connect with me:</h3>
 <p align="left">
-    &nbsp;&nbsp;
     <a href="https://instagram.com/sumanrox.official" target="_blank">
         <img align="center" src="https://www.svgrepo.com/download/452229/instagram-1.svg" alt="sumanrox" height="35" width="40" />
     </a>
