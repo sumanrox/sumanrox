@@ -28,10 +28,11 @@
 <p align="left">
     <a href="https://linkedin.com/in/sumanrox" target="_blank">
         <img align="center" src="https://www.svgrepo.com/download/81143/linkedin.svg" alt="sumanrox" height="30" width="40" />
-    </a>&nbsp;&nbsp;<a href="https://instagram.com/sumanrox.official" target="_blank">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://instagram.com/sumanrox.official" target="_blank">
         <img align="center" src="https://www.svgrepo.com/download/452229/instagram-1.svg" alt="sumanrox" height="35" width="40" />
     </a>
-
 </p>
 
 <h4 align="left">Support:</h3>
