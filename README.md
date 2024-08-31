@@ -1,7 +1,3 @@
-<p align="right">
-    <img src="https://komarev.com/ghpvc/?username=sumanrox&label=Profile%20views&color=0e75b6&style=flat" alt="sumanrox"/>
-</p>
-
 <div align="center">
     <h1>Hi<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" style="vertical-align: middle;"/>, I am Suman Roy</h1>
     <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" height=150 />
@@ -13,7 +9,7 @@
 > **_“God sends his most elite soldiers into the toughest battles”_**
 > — The Creator
 
-<p align="left">
+<p align="right">
     <h4> Follow Me </h4>
     <a href="https://sumanroy.gitbook.io/" target="_blank"><img src="https://img.shields.io/badge/Gitbook-000000?style=for-the-badge&logo=gitbook&logoColor=white" alt="Gitbook" /></a>
     <a href="https://tryhackme.com/p/sumanrox" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-2D2D2D?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
@@ -22,6 +18,9 @@
     <a href="https://sumanrox.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 </p>
 
+<p align="right">
+    <img src="https://komarev.com/ghpvc/?username=sumanrox&label=Profile%20views&color=0e75b6&style=flat" alt="sumanrox"/>
+</p>
 
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumanrox&show_icons=true&locale=en&theme=dark&layout=compact" alt="sumanrox" height="180" />
