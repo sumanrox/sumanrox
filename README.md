@@ -1,5 +1,3 @@
-
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/l0MYDEdKjIeco0vFm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/art-glitch-2016-l0MYDEdKjIeco0vFm"></a></p>
 <h2>Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" style="vertical-align: middle;"/> I am Suman Roy</h2>
 
 <p align="right">
