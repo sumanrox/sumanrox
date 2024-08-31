@@ -14,8 +14,6 @@
     </a>
 </p>
 
----
-
 - 🔭 I’m currently working for [LoginSoft](https://www.loginsoft.com/)
 - 🅾 Feel free to Email me: **sumanrox@outlook.com**
 - 👯 I have previously worked for [Wipro](https://www.wipro.com/)
@@ -27,8 +25,12 @@
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/sumanrox/)
 - ⚡ Best Motivation: **God sends his most elite soldiers into the toughest battles**
 
----
+<h3 align="center">My GitHub Stats</h3>
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sumanrox&show_icons=true&locale=en" alt="sumanrox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumanrox&show_icons=true&locale=en&layout=compact" alt="sumanrox" />
+</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://linkedin.com/in/sumanrox" target="blank">
@@ -39,20 +41,9 @@
     </a>
 </p>
 
----
-
 <h3 align="center">Support:</h3>
 <p align="center">
     <a href="https://www.buymeacoffee.com/sumanroy">
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sumanroy" />
     </a>
-</p>
-
----
-
-<h3 align="center">My GitHub Stats</h3>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sumanrox&show_icons=true&locale=en" alt="sumanrox" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumanrox&show_icons=true&locale=en&layout=compact" alt="sumanrox" />
 </p>
