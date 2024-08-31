@@ -26,12 +26,12 @@
 
 <h4 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/sumanrox" target="blank">
-        <img align="center" src="https://www.svgrepo.com/download/81143/linkedin.svg" alt="sumanrox" height="20" width="20" />
+    <a href="https://linkedin.com/in/sumanrox" target="_blank">
+        <img align="center" src="https://www.svgrepo.com/download/81143/linkedin.svg" alt="sumanrox" height="40" width="40" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://instagram.com/sumanrox.official" target="blank">
-        <img align="center" src="https://www.svgrepo.com/download/452229/instagram-1.svg" alt="sumanrox" height="20" width="20" />
+    <a href="https://instagram.com/sumanrox.official" target="_blank">
+        <img align="center" src="https://www.svgrepo.com/download/452229/instagram-1.svg" alt="sumanrox" height="40" width="40" />
     </a>
 </p>
 
