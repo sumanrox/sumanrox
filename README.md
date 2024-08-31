@@ -1,6 +1,4 @@
 # Improved version of the README with better alignment, spacing, and some styling enhancements.
-
-improved_readme = """
 <h1 align="center">Hi 👋, I'm Suman Roy</h1>
 <h3 align="center">
     A Security Researcher from India with a passion for hacking CTFs and exposing scammers.
@@ -63,10 +61,3 @@ improved_readme = """
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=sumanrox&show_icons=true&locale=en" alt="sumanrox" />
 </p>
-"""
-
-# Write the improved content back to the file
-with open(file_path, "w") as file:
-    file.write(improved_readme)
-
-improved_readme
