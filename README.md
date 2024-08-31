@@ -6,10 +6,11 @@
     <img src="https://komarev.com/ghpvc/?username=sumanrox&label=Profile%20views&color=0e75b6&style=flat" alt="sumanrox"/>
 </p>
 
-<h3 align="left">
-    A Security Researcher from India with a passion for hacking CTFs and exposing scammers.
-    Experienced in bug bounty hunting and securing critical systems, including Indian government organizations and private healthcare sectors.
-</h3>
+<p align="left">
+    <img src="https://octodex.github.com/images/NUX_Octodex.gif" align="left"/>
+    <h4 align="right">A Security Researcher from India with a passion for hacking CTFs and exposing scammers.
+    Experienced in bug bounty hunting and securing critical systems, including Indian government organizations and private healthcare sectors.</h4> 
+</p>
 
 #### Follow Me
 
