@@ -31,7 +31,7 @@
     </a>
     &nbsp;&nbsp;
     <a href="https://linkedin.com/in/sumanrox" target="_blank">
-        <img align="center" src="https://www.svgrepo.com/download/81143/linkedin.svg" alt="sumanrox" height="35" width="40" />
+        <img align="center" src="https://www.svgrepo.com/download/81143/linkedin.svg" alt="sumanrox" height="30" width="40" />
     </a>
 </p>
 
