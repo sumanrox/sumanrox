@@ -8,12 +8,6 @@
     <img src="https://komarev.com/ghpvc/?username=sumanrox&label=Profile%20views&color=0e75b6&style=flat" alt="sumanrox" />
 </p>
 
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=sumanrox" alt="sumanrox" />
-    </a>
-</p>
-
 - 🔭 I’m currently working for [LoginSoft](https://www.loginsoft.com/)
 - 🅾 Feel free to Email me: **sumanrox@outlook.com**
 - 👯 I have previously worked for [Wipro](https://www.wipro.com/)
@@ -26,8 +20,14 @@
 - ⚡ Best Motivation: **God sends his most elite soldiers into the toughest battles**
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sumanrox&show_icons=true&locale=en" alt="sumanrox" height="100" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumanrox&show_icons=true&locale=en&layout=compact" alt="sumanrox" height="100" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sumanrox&show_icons=true&locale=en" alt="sumanrox" height="300" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumanrox&show_icons=true&locale=en&layout=compact" alt="sumanrox" height="300" />
+</p>
+
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=sumanrox" alt="sumanrox" />
+    </a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
