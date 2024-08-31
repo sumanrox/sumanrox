@@ -24,6 +24,15 @@
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/sumanrox/)
 - ⚡ Best Motivation: **God sends his most elite soldiers into the toughest battles**
 
+### Tools & Technologies
+
+<p align="center">
+    <img src="https://img.shields.io/badge/OS-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+    <img src="https://img.shields.io/badge/Tool-Burp%20Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" />
+    <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+    <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
 <h4 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://instagram.com/sumanrox.official" target="_blank">
@@ -35,7 +44,7 @@
     </a>
 </p>
 
-<h4 align="left">Support:</h3>
+<h4 align="left">If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈</h3>
 <p align="left">
     <a href="https://www.buymeacoffee.com/sumanroy">
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="180" alt="sumanroy" />
