@@ -39,10 +39,6 @@
 - 📫 How to DM me: [Instagram](https://instagram.com/sumanrox.official/)
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/sumanrox/)
 
-#### Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sumanrox&theme=onedark&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
 #### Tools & Technologies
 
 ![tech](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
