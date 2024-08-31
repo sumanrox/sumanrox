@@ -18,7 +18,7 @@
     <a href="https://sumanrox.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
     <a href="https://github.com/sumanrox"><img src="https://komarev.com/ghpvc/?username=sumanrox&style=for-the-badge&color=brightgreen&label=Profile+Views" alt="Profile Views"></a>
 </p>
-
+<hr>
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumanrox&show_icons=true&locale=en&theme=dark&layout=compact" alt="sumanrox" height="180" />
     <img src="https://github-readme-stats.vercel.app/api?username=sumanrox&show_icons=true&locale=en&theme=dark" alt="sumanrox" height="180" />
