@@ -42,7 +42,7 @@
     <img src="https://img.shields.io/badge/Forensics-Mobile%20Forensics-0078D4?style=for-the-badge&logo=mobile&logoColor=white" alt="Mobile Forensics" />
 </p>
 
-<h4 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://instagram.com/sumanrox.official" target="_blank">
         <img align="center" src="https://www.svgrepo.com/download/452229/instagram-1.svg" alt="sumanrox" height="35" width="40" />
@@ -53,7 +53,7 @@
     </a>
 </p>
 
-<h4 align="left">If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈</h3>
+<h3 align="left">If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈</h3>
 <p align="left">
     <a href="https://www.buymeacoffee.com/sumanroy">
         <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="180" alt="sumanroy" />
