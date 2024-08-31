@@ -2,13 +2,13 @@
 <h2>Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" style="vertical-align: middle;"/> I am Suman Roy</h2>
 
 <p align="right">
-    Socials
     <img src="https://komarev.com/ghpvc/?username=sumanrox&label=Profile%20views&color=0e75b6&style=flat" alt="sumanrox"/>
 </p>
 
 <h4>A Security Researcher from India with a passion for hacking CTFs and exposing scammers. Experienced in bug bounty hunting and securing critical systems, including Indian government organizations and private healthcare sectors.</h4>
 
 <p align="left">
+    <h4> Follow Me on </h4>
     <a href="https://sumanroy.gitbook.io/" target="_blank"><img src="https://img.shields.io/badge/Gitbook-000000?style=for-the-badge&logo=gitbook&logoColor=white" alt="Gitbook" /></a>
     <a href="https://tryhackme.com/p/sumanrox" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-2D2D2D?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
     <a href="https://www.linkedin.com/in/sumanrox/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
