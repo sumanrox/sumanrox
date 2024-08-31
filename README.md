@@ -2,9 +2,8 @@
 
 <h2 align="center" style="line-height: 35px;">
     Hi 
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" style="vertical-align: middle;"/>
-    , I'm Suman Roy 
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Medium-Light%20Skin%20Tone.png" alt="Technologist Medium-Light Skin Tone" width="35" height="35" style="vertical-align: middle;"/>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" style="vertical-align: bottom;"/>,I'm Suman Roy
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Medium-Light%20Skin%20Tone.png" alt="Technologist Medium-Light Skin Tone" width="35" height="35" style="vertical-align: bottom;"/>
 </h2>
 
 <p align="right">
