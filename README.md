@@ -35,7 +35,7 @@
 
 #### Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sumanrox&theme=onedark&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sumanrox&theme=onedark&row=2&column=3&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 #### Tools & Technologies
 
