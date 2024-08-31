@@ -4,13 +4,10 @@
     Experienced in bug bounty hunting and securing critical systems, including Indian government organizations and private healthcare sectors.
 </h3>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=sumanrox&label=Profile%20views&color=0e75b6&style=flat" alt="sumanrox" align=left />
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=sumanrox&label=Profile%20views&color=0e75b6&style=flat" alt="sumanrox" />
 </p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sumanrox&show_icons=true&locale=en" alt="sumanrox" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumanrox&show_icons=true&locale=en&layout=compact" alt="sumanrox" />
-</p>
+
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=sumanrox" alt="sumanrox" />
@@ -27,6 +24,11 @@
 - 📫 How to DM me: [Instagram](https://instagram.com/sumanrox.official/)
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/sumanrox/)
 - ⚡ Best Motivation: **God sends his most elite soldiers into the toughest battles**
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sumanrox&show_icons=true&locale=en" alt="sumanrox" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumanrox&show_icons=true&locale=en&layout=compact" alt="sumanrox" />
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
