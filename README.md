@@ -4,9 +4,6 @@
     <h3>A Security Researcher from India with a passion for hacking CTFs and exposing scammers. Experienced in bug bounty hunting and securing critical systems, including Indian government organizations and private healthcare sectors.</h3>
 </div>
 
-> **_“God sends his most elite soldiers into the toughest battles”_**
-> — The Creator
-
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 <p align="left">
@@ -35,6 +32,9 @@
 - 💬 Feel free to ask me about **Hacking and Motivation**
 - 📫 Feel free to dm me: [Instagram](https://instagram.com/sumanrox.official/)
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/sumanrox/)
+
+> **_“God sends his most elite soldiers into the toughest battles”_**
+> — The Creator
 
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
