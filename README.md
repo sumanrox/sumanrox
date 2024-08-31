@@ -10,7 +10,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sumanrox&show_icons=true&locale=en" alt="sumanrox" height="180" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumanrox&show_icons=true&locale=en&layout=compact" alt="sumanrox" height="180" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumanrox&show_icons=true&locale=en&layout=compact" alt="sumanrox" height="160" width="400" />
 </p>
 
 - 🔭 I’m currently working for [LoginSoft](https://www.loginsoft.com/)
