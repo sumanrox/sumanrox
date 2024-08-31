@@ -19,9 +19,9 @@
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/sumanrox/)
 - ⚡ Best Motivation: **God sends his most elite soldiers into the toughest battles**
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sumanrox&show_icons=true&locale=en" alt="sumanrox" height="200" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumanrox&show_icons=true&locale=en&layout=compact" alt="sumanrox" height="200" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumanrox&show_icons=true&locale=en" alt="sumanrox" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumanrox&show_icons=true&locale=en&layout=compact" alt="sumanrox" height="200" />
 </p>
 
 <p align="center">
