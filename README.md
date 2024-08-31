@@ -9,8 +9,6 @@
 
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
-![data](https://i.pinimg.com/originals/36/2d/5c/362d5c55859146c0c7debfca296ad321.gif)
-
 > **_“God sends his most elite soldiers into the toughest battles”_**
 > — The Creator
 
