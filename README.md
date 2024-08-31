@@ -1,10 +1,9 @@
-<h2>Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" style="vertical-align: middle;"/> I am Suman Roy</h2>
-
 <p align="right">
     <img src="https://komarev.com/ghpvc/?username=sumanrox&label=Profile%20views&color=0e75b6&style=flat" alt="sumanrox"/>
 </p>
 
 <div align="center">
+    <h2>Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" style="vertical-align: middle;"/> I am Suman Roy</h2>
     <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" height=150 />
     <h3>A Security Researcher from India with a passion for hacking CTFs and exposing scammers. Experienced in bug bounty hunting and securing critical systems, including Indian government organizations and private healthcare sectors.</h3>
 </div>
