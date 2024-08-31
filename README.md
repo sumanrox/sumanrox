@@ -9,7 +9,7 @@
 > **_“God sends his most elite soldiers into the toughest battles”_**
 > — The Creator
 
-<p align="right">
+<p align="left">
     <h4>Follow Me </h4>
     <a href="https://sumanroy.gitbook.io/" target="_blank"><img src="https://img.shields.io/badge/Gitbook-000000?style=for-the-badge&logo=gitbook&logoColor=white" alt="Gitbook" /></a>
     <a href="https://tryhackme.com/p/sumanrox" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-2D2D2D?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
@@ -18,7 +18,7 @@
     <a href="https://sumanrox.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 </p>
 
-<p align="right">
+<p align="left">
     <img src="https://komarev.com/ghpvc/?username=sumanrox&label=Profile%20views&color=0e75b6&style=flat" alt="sumanrox"/>
 </p>
 
