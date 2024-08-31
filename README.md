@@ -9,8 +9,8 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumanrox&show_icons=true&locale=en" alt="sumanrox" height="180" width="260" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumanrox&show_icons=true&locale=en&layout=compact" alt="sumanrox" height="180" width="260" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sumanrox&show_icons=true&locale=en" alt="sumanrox" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumanrox&show_icons=true&locale=en&layout=compact" alt="sumanrox" height="180" />
 </p>
 
 - 🔭 I’m currently working for [LoginSoft](https://www.loginsoft.com/)
@@ -37,6 +37,6 @@
 <h3 align="left">Support:</h3>
 <p align="left">
     <a href="https://www.buymeacoffee.com/sumanroy">
-        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="150" alt="sumanroy" />
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="100" alt="sumanroy" />
     </a>
 </p>
