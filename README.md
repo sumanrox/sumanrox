@@ -26,11 +26,20 @@
 
 ### Tools & Technologies
 
-<p align="center">
+<p align="left">
     <img src="https://img.shields.io/badge/OS-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
     <img src="https://img.shields.io/badge/Tool-Burp%20Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" />
     <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
     <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Code-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+    <img src="https://img.shields.io/badge/Code-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/Code-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Code-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+    <img src="https://img.shields.io/badge/Code-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
+    <img src="https://img.shields.io/badge/Code-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+    <img src="https://img.shields.io/badge/Code-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+    <img src="https://img.shields.io/badge/Forensics-Mobile%20Forensics-0078D4?style=for-the-badge&logo=mobile&logoColor=white" alt="Mobile Forensics" />
 </p>
 
 <h4 align="left">Connect with me:</h3>
