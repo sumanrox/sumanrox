@@ -4,10 +4,10 @@
     <h3>A Security Researcher from India with a passion for hacking CTFs and exposing scammers. Experienced in bug bounty hunting and securing critical systems, including Indian government organizations and private healthcare sectors.</h3>
 </div>
 
-![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
 > **_“God sends his most elite soldiers into the toughest battles”_**
 > — The Creator
+
+![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 <p align="left">
     <h4>Follow Me </h4>
@@ -19,7 +19,7 @@
     <a href="https://github.com/sumanrox"><img src="https://komarev.com/ghpvc/?username=sumanrox&style=for-the-badge&color=brightgreen&label=Profile+Views" alt="Profile Views"></a>
 </p>
 
-![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+----
 
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumanrox&show_icons=true&locale=en&theme=dark&layout=compact" alt="sumanrox" height="180" />
@@ -33,7 +33,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/sumanrox](https://github.com/sumanrox)
 - 📝 I sometimes write articles on CTFs at [https://sumanroy.gitbook.io/](https://sumanroy.gitbook.io/)
 - 💬 Feel free to ask me about **Hacking and Motivation**
-- 📫 How to DM me: [Instagram](https://instagram.com/sumanrox.official/)
+- 📫 Feel free to dm me: [Instagram](https://instagram.com/sumanrox.official/)
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/sumanrox/)
 
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
