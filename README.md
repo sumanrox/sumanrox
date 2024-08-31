@@ -1,4 +1,3 @@
-# Improved version of the README with better alignment, spacing, and some styling enhancements.
 <h1 align="center">Hi 👋, I'm Suman Roy</h1>
 <h3 align="center">
     A Security Researcher from India with a passion for hacking CTFs and exposing scammers.
