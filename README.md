@@ -16,15 +16,16 @@
     <img src="https://github-readme-stats.vercel.app/api?username=sumanrox&show_icons=true&locale=en&theme=dark" alt="sumanrox" height="180" />
 </p>
 
-- 🔭 I’m currently working for [LoginSoft](https://www.loginsoft.com/)
-- 🅾 Feel free to Email me: **sumanrox@outlook.com**
-- 👯 I have previously worked for [Wipro](https://www.wipro.com/)
-- 🌱 I’m currently training myself for [CEH Master](https://www.eccouncil.org/train-certify/ceh-master/)
-- 👨‍💻 All of my projects are available at [https://github.com/sumanrox](https://github.com/sumanrox)
-- 📝 I sometimes write articles on CTFs at [https://sumanroy.gitbook.io/](https://sumanroy.gitbook.io/)
-- 💬 Feel free to ask me about **Hacking and Motivation**
-- 📫 Feel free to dm me: [Instagram](https://instagram.com/sumanrox.official/)
-- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/sumanrox/)
+- 🔭 I’m currently working at [LoginSoft](https://www.loginsoft.com/) as a cybersecurity professional.
+- 🛠️ I specialize in **Penetration Testing**, **Vulnerability Assessment**, and **Ethical Hacking**.
+- 🌱 I’m training for the [CEH Master](https://www.eccouncil.org/train-certify/ceh-master/) certification to deepen my cybersecurity expertise.
+- 👯 Previously, I worked at [Wipro](https://www.wipro.com/), where I gained extensive experience in IT security and consulting.
+- 💼 Check out my professional journey on [LinkedIn](https://www.linkedin.com/in/sumanrox/).
+- 👨‍💻 Explore my projects on [GitHub](https://github.com/sumanrox), where I showcase my work on security tools, CTF challenges, and more.
+- 📝 I occasionally share insights and write-ups on CTFs at [GitBook](https://sumanroy.gitbook.io/).
+- 💬 Ask me anything about **Hacking, Cybersecurity, or Motivation**—I'm here to help!
+- 📫 Connect with me on [Instagram](https://instagram.com/sumanrox.official/) or via **Email** at **sumanrox@outlook.com**.
+- 📝 I’m passionate about continuous learning and sharing knowledge with the community.
 
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
