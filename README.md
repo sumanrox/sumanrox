@@ -52,7 +52,7 @@
 
 <p align="left">
     <h4>Follow Me </h4>
-    <a href="https://linktr.ee/sumanroy.official" target="_blank"><img src="https://img.shields.io/badge/~Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=black" alt="LinkTree" /></a>
+    <a href="https://linktr.ee/sumanroy.official" target="_blank"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=black" alt="LinkTree" /></a>
     <a href="https://sumanroy.gitbook.io/" target="_blank"><img src="https://img.shields.io/badge/Gitbook-000000?style=for-the-badge&logo=gitbook&logoColor=white" alt="Gitbook" /></a>
     <a href="https://tryhackme.com/p/sumanrox" target="_blank"><img src="https://img.shields.io/badge/TryHackMe-2D2D2D?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
     <a href="https://www.linkedin.com/in/sumanrox/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
