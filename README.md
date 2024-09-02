@@ -16,8 +16,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=sumanrox&show_icons=true&locale=en&theme=dark" alt="sumanrox" height="180" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumanrox)](https://git.io/streak-stats)
-
 - 🔭 I’m currently working at [LoginSoft](https://www.loginsoft.com/) as a cybersecurity professional.
 - 🛠️ I specialize in **Penetration Testing**, **Vulnerability Assessment**, and **Ethical Hacking**.
 - 🌱 I’m training for the [CEH Master](https://www.eccouncil.org/train-certify/ceh-master/) certification to deepen my cybersecurity expertise.
