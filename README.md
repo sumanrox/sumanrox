@@ -1,7 +1,7 @@
 <div align="center">
     <img src="./crop-hello.gif"/>
     <h1>I am Suman Roy <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" style="vertical-align: middle;"/></h1>
-    <h3>A Security Researcher from India 🇮🇳 with a passion for hacking CTFs and exposing scammers. Experienced in bug bounty hunting and securing critical systems, including Indian government organizations and private healthcare sectors.</h3>
+    <h3>A Security Researcher from India, with a passion for hacking CTFs and exposing scammers. Experienced in bug bounty hunting and securing critical systems, including Indian government organizations and private healthcare sectors.</h3>
 </div>
 
 <div align="center" style="font-size: 34px; font-weight: bold; color: #333; margin: 20px 0;">
