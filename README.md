@@ -60,7 +60,11 @@
     <a href="https://sumanrox.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 </p>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/sumanrox.png" alt="TryHackMe">
+<p align="left">
+    <a href="https://tryhackme.com/p/sumanrox">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/sumanrox.png" alt="TryHackMe">    
+    </a>
+</p>
 
 <h4 align="left">If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈</h4>
 <p align="left">
