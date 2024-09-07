@@ -1,7 +1,6 @@
 <div align="center">
     <img src="./crop-hello.gif"/>
     <h1>I am Suman Roy <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" style="vertical-align: middle;"/></h1>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/sumanrox.png" alt="TryHackMe">
     <h3>A Security Researcher from India, with a passion for hacking CTFs and exposing scammers. Experienced in bug bounty hunting and securing critical systems, including Indian government organizations and private healthcare sectors.</h3>
 </div>
 
@@ -60,6 +59,8 @@
     <a href="https://instagram.com/sumanrox.official/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
     <a href="https://sumanrox.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 </p>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/sumanrox.png" alt="TryHackMe">
 
 <h4 align="left">If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈</h4>
 <p align="left">
