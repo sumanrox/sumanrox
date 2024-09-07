@@ -69,6 +69,9 @@
 
 ![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
+<script src="https://tryhackme.com/badge/408684"></script>
+
+
 <p align="left">
     <a href="https://github.com/sumanrox"><img src="https://komarev.com/ghpvc/?username=sumanrox&style=for-the-badge&color=brightgreen&label=Profile+Views" alt="Profile Views"></a>
 </p>
