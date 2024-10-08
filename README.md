@@ -62,7 +62,7 @@
 
 <p align="left">
     <a href="https://tryhackme.com/p/sumanrox">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/sumanrox.png" alt="TryHackMe">    
+    <img src="https://tryhackme-badges.s3.amazonaws.com/sumanrox.png" alt="TryHackMe - Suman Roy" />   
     </a>
 </p>
 
