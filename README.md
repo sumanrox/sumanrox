@@ -16,7 +16,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=sumanrox&show_icons=true&locale=en&theme=dark" alt="sumanrox" height="180" />
 </p>
 
-- 🔭 I’m currently working at [LoginSoft](https://www.loginsoft.com/) as a cybersecurity professional.
+- 🔭 I worked as Security Researcher at [LoginSoft](https://www.loginsoft.com/) , doing manual source code analysis for client's like CheckMarx SCA.
 - 🛠️ I specialize in **Penetration Testing**, **Vulnerability Assessment**, and **Ethical Hacking**.
 - 🌱 I’m training for the [CEH Master](https://www.eccouncil.org/train-certify/ceh-master/) certification to deepen my cybersecurity expertise.
 - 👯 Previously, I worked at [Wipro](https://www.wipro.com/), where I gained extensive experience in techical support and consulting.
